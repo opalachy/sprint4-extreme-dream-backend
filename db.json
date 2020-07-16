@@ -7,7 +7,7 @@
       "createdBy": {
         "_id": "u102",
         "fullName": "Orly Azaz",
-        "imgUrl": "http://core-img"
+        "imgUrl": "https://i2.wp.com/scubadiverlife.com/wp-content/uploads/2017/03/shark-love.jpg?w=896&h=597&ssl=1"
       },
       "type": "ski",
       "tags": [],
@@ -21,7 +21,7 @@
       "location": "France",
       "date": 1541652422,
       "capacity": 12,
-      "imgUrls": [],
+      "imgUrls": ["https://i2.wp.com/scubadiverlife.com/wp-content/uploads/2017/03/shark-love.jpg?w=896&h=597&ssl=1"],
       "reviews": [
         {
           "id": "r101",
@@ -43,7 +43,7 @@
       "createdBy": {
         "_id": "u103",
         "fullName": "Dorty Moz",
-        "imgUrl": "http://core-img"
+        "imgUrl": "https://i2.wp.com/scubadiverlife.com/wp-content/uploads/2017/03/shark-love.jpg?w=896&h=597&ssl=1"
       },
       "type": "Diving",
       "tags": [],
@@ -51,13 +51,13 @@
         {
           "_id": "u110",
           "fullName": "Rani Rahav",
-          "imgUrl": "http://core-img"
+          "imgUrl": "https://i2.wp.com/scubadiverlife.com/wp-content/uploads/2017/03/shark-love.jpg?w=896&h=597&ssl=1"
         }
       ],
       "location": "Israel",
       "date": 1541652480,
       "capacity": 10,
-      "imgUrls": [],
+      "imgUrls": ["https://i2.wp.com/scubadiverlife.com/wp-content/uploads/2017/03/shark-love.jpg?w=896&h=597&ssl=1"],
       "reviews": [
         {
           "id": "r101",
