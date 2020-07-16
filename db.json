@@ -7,7 +7,7 @@
       "createdBy": {
         "_id": "u102",
         "fullName": "Orly Azaz",
-        "imgUrl": "http://core-img"
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
       },
       "type": "ski",
       "tags": [],
@@ -15,20 +15,20 @@
         {
           "_id": "u112",
           "fullName": "Moshe Potz",
-          "imgUrl": "http://core-img"
+          "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
         }
       ],
       "location": "France",
       "date": 1541652422,
       "capacity": 12,
-      "imgUrls": [],
+      "imgUrls": ["https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"],
       "reviews": [
         {
           "id": "r101",
           "by": {
             "_id": "u112",
             "fullName": "Moshe Potz",
-            "imgUrl": "http://core-img"
+            "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
           },
           "txt": "was great experience!!",
           "rate": 5,
@@ -43,7 +43,7 @@
       "createdBy": {
         "_id": "u103",
         "fullName": "Dorty Moz",
-        "imgUrl": "http://core-img"
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
       },
       "type": "Diving",
       "tags": [],
@@ -51,20 +51,20 @@
         {
           "_id": "u110",
           "fullName": "Rani Rahav",
-          "imgUrl": "http://core-img"
+          "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
         }
       ],
       "location": "Israel",
       "date": 1541652480,
       "capacity": 10,
-      "imgUrls": [],
+      "imgUrls": ["https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"],
       "reviews": [
         {
           "id": "r101",
           "by": {
             "_id": "u110",
             "fullName": "Rani Rahav",
-            "imgUrl": "http://core-img"
+            "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
           },
           "txt": "the location was not a nice place",
           "rate": 2,
@@ -80,7 +80,7 @@
       "by": {
         "_id": "u102",
         "fullName": "Orly Azaz",
-        "imgUrl": "http://core-img"
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg"
       },
       "exp": {
         "_id": "u102",
@@ -96,7 +96,7 @@
       "userName": "orly@amdadi.com",
       "password": "tinkerbell",
       "isSeller": true,
-      "imgUrl": "http://some-img",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg",
       "info": "Dive master, with 12 years experience. I have 1200 hours of diving. I'm certefied cave master as well."
     },
     {
@@ -105,7 +105,7 @@
       "userName": "orly@azaz.com",
       "password": "1234",
       "isSeller": false,
-      "imgUrl": "http://core-img",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/54/4c/scuba-diving-bali-with.jpg",
       "info": "I'm new to diving and I would like to dive in an exsotic place"
     }
   ]
