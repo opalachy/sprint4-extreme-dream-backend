@@ -20,12 +20,14 @@
           {
             "_id": "u102",
             "fullName": "Moshe Potz",
-            "imgUrl": "https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg"
+            "imgUrl": "https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg",
+            "numOfTickets": 5
           },
           {
             "_id": "u103",
             "fullName": "Yossi Kotz",
-            "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg"
+            "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg",
+            "numOfTickets": 2
           }
         ],
         "location": "France",
@@ -61,8 +63,8 @@
       },
       {
         "_id": "5c002",
-        "title": "Scuba diving",
-        "shortDesc": "The best scuba diving experience in Israel",
+        "title": "Best Scuba Diving in Egypt",
+        "shortDesc": "The best scuba diving experience in Egypt",
         "desc": "Amazing underwater experience. Join us to explore the Red Sea. From introductory dives to all levels diving experience. Daily diving trips in Eilat and Taba allow you to explore the magnificent underwater world in the Red Sea.",
         "startsAt": 1541652455,
         "createdBy": {
@@ -71,7 +73,7 @@
           "info": "Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue.",
           "imgUrl": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/photography/discover/portrait-photography/CODERED_B1_portrait_photography-P4a_438x447.jpg.img.jpg"
         },
-        "type": "Scuba Diving",
+        "type": "Diving",
         "currPrice": 33,
         "origPrice": 50,
         "tags": [],
@@ -79,15 +81,17 @@
           {
             "_id": "u105",
             "fullName": "Rani Rahav",
-            "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg"
+            "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg",
+            "numOfTickets": 3
           },
           {
             "_id": "u106",
             "fullName": "Yair Lapid",
-            "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg"
+            "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg",
+            "numOfTickets": 1
           }
         ],
-        "location": "Israel",
+        "location": "Egypt",
         "date": 1541252480,
         "capacity": 10,
         "imgUrls": [
@@ -138,12 +142,14 @@
           {
             "_id": "u102",
             "fullName": "Moshe Potz",
-            "imgUrl": "https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg"
+            "imgUrl": "https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg",
+            "numOfTickets": 6
           },
           {
             "_id": "u103",
             "fullName": "Yossi Kotz",
-            "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg"
+            "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg",
+            "numOfTickets": 2
           }
         ],
         "location": "France",
@@ -179,8 +185,8 @@
       },
       {
         "_id": "5c004",
-        "title": "Scuba diving",
-        "shortDesc": "The best scuba diving experience in Israel",
+        "title": "Discover the Blue Lagoon",
+        "shortDesc": "The best scuba diving experience in Egypt",
         "desc": "Amazing underwater experience. Join us to explore the Red Sea. From introductory dives to all levels diving experience. Daily diving trips in Eilat and Taba allow you to explore the magnificent underwater world in the Red Sea.",
         "startsAt": 1541652455,
         "createdBy": {
@@ -189,7 +195,7 @@
           "info": "Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue.",
           "imgUrl": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/photography/discover/portrait-photography/CODERED_B1_portrait_photography-P4a_438x447.jpg.img.jpg"
         },
-        "type": "Scuba Diving",
+        "type": "Diving",
         "currPrice": 33,
         "origPrice": 50,
         "tags": [],
@@ -197,15 +203,17 @@
           {
             "_id": "u105",
             "fullName": "Rani Rahav",
-            "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg"
+            "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg",
+            "numOfTickets": 1
           },
           {
             "_id": "u106",
             "fullName": "Yair Lapid",
-            "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg"
+            "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg",
+            "numOfTickets": 3
           }
         ],
-        "location": "Israel",
+        "location": "Egypt",
         "date": 1541252480,
         "capacity": 10,
         "imgUrls": [
@@ -248,7 +256,7 @@
         },
         "exp": {
           "_id": "5c001",
-          "type": "ski",
+          "type": "Ski",
           "title": "Freestyle ski"
         }
       },
@@ -262,8 +270,8 @@
         },
         "exp": {
           "_id": "5c002",
-          "type": "Scuba diving",
-          "title": "Scuba diving"
+          "type": "Scuba",
+          "title": "Scuba Diving"
         }
       }
     ],
