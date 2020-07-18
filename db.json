@@ -91,7 +91,7 @@
         "date": 1541252480,
         "capacity": 10,
         "imgUrls": [
-          "https://scubaversezone-utixkeawxrz.netdna-ssl.com/wp-content/uploads/bfi_thumb/Reem-1-640x433-mce26rbkhbe9qbav3h0ltf5ensmu2z2pujfzadx4a2.jpg","https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto/v1573005044/adventures/eps_6637.jpg", "https://israeldive.com/en/wp-content/uploads/2011/12/slide3.jpg", "https://www.israel21c.org/wp-content/uploads/2020/01/shutterstock_659183215-1168x657.jpg", "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/israel-scuba-diving-cover.jpg"
+          "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/b3/c9.jpg","https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto/v1573005044/adventures/eps_6637.jpg", "https://israeldive.com/en/wp-content/uploads/2011/12/slide3.jpg", "https://www.israel21c.org/wp-content/uploads/2020/01/shutterstock_659183215-1168x657.jpg", "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/israel-scuba-diving-cover.jpg"
         ],
         "reviews": [
           {
@@ -140,63 +140,6 @@
             "fullName": "Moshe Potz",
             "imgUrl": "https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg"
           },
-<<<<<<< HEAD
-          "txt": "Great experience, best location and amaizing instructor!!",
-          "rate": 5,
-          "at": 1541652422
-        },
-        {
-          "id": "r102",
-          "by": {
-            "_id": "u103",
-            "fullName": "Yossi Kotz",
-            "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg"
-          },
-          "txt": "Awesome experience, Orly is the best instructor, highly recommended!!",
-          "rate": 5,
-          "at": 1541852422
-        }
-      ]
-    },
-    {
-      "_id": "5c006",
-      "title": "Scuba diving",
-      "shortDesc": "The best scuba diving experience in Israel",
-      "desc": "Amazing underwater experience. Join us to explore the Red Sea. From introductory dives to all levels diving experience. Daily diving trips in Eilat and Taba allow you to explore the magnificent underwater world in the Red Sea.",
-      "startsAt": 1541652455,
-      "createdBy": {
-        "_id": "u104",
-        "fullName": "Dorty Scuba",
-        "info": "Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue.",
-        "imgUrl": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/photography/discover/portrait-photography/CODERED_B1_portrait_photography-P4a_438x447.jpg.img.jpg"
-      },
-      "type": "Scuba Diving",
-      "currPrice": 33,
-      "origPrice": 50,
-      "tags": [],
-      "participants": [
-        {
-          "_id": "u105",
-          "fullName": "Rani Rahav",
-          "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg"
-        },
-        {
-          "_id": "u106",
-          "fullName": "Yair Lapid",
-          "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg"
-        }
-      ],
-      "location": "Israel",
-      "date": 1541252480,
-      "capacity": 10,
-      "imgUrls": [
-        "https://scubaversezone-utixkeawxrz.netdna-ssl.com/wp-content/uploads/bfi_thumb/Reem-1-640x433-mce26rbkhbe9qbav3h0ltf5ensmu2z2pujfzadx4a2.jpg","https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto/v1573005044/adventures/eps_6637.jpg", "https://israeldive.com/en/wp-content/uploads/2011/12/slide3.jpg", "https://www.israel21c.org/wp-content/uploads/2020/01/shutterstock_659183215-1168x657.jpg", "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/israel-scuba-diving-cover.jpg"
-      ],
-      "reviews": [
-        {
-          "id": "r103",
-          "by": {
-=======
           {
             "_id": "u103",
             "fullName": "Yossi Kotz",
@@ -252,82 +195,10 @@
         "tags": [],
         "participants": [
           {
->>>>>>> 29de14fbb5828ce777fada9cbb623ec66e49bfc5
             "_id": "u105",
             "fullName": "Rani Rahav",
             "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg"
           },
-<<<<<<< HEAD
-          "txt": "Poor visibility, the equipment was in bad condition.",
-          "rate": 2,
-          "at": 1541652422
-        },
-        {
-          "id": "r104",
-          "by": {
-            "_id": "u106",
-            "fullName": "Yair Lapid",
-            "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg"
-          },
-          "txt": "Great instructor, the weather was perfect and cristal clear water.",
-          "rate": 2,
-          "at": 1541652422
-        }
-      ]
-    }
-  ],
-  "order": [
-    {
-      "_id": "o101",
-      "createdAt": 122222222,
-      "by": {
-        "_id": "u101",
-        "fullName": "Orly Snowboard",
-        "imgUrl": "https://bidunart.com/wp-content/uploads/2019/12/Portrait197a-1280x640.jpg"
-      },
-      "exp": {
-        "_id": "5c001",
-        "type": "ski",
-        "title": "Freestyle ski"
-      }
-    },
-    {
-      "_id": "o102",
-      "createdAt": 122225555,
-      "by": {
-        "_id": "u104",
-        "fullName": "Dorty Scuba",
-        "imgUrl": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/photography/discover/portrait-photography/CODERED_B1_portrait_photography-P4a_438x447.jpg.img.jpg"
-      },
-      "exp": {
-        "_id": "5c002",
-        "type": "Scuba diving",
-        "title": "Scuba diving"
-      }
-    }
-  ],
-  "user": [
-    {
-      "_id": "u105",
-      "fullName": "Rani Rahav",
-      "userName": "rani@rahav.com",
-      "password": "5678",
-      "isSeller": true,
-      "imgUrl": "https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg",
-      "info": "24 years old. Like to dive, 2 stars certified."
-    },
-    {
-      "_id": "u106",
-      "fullName": "Yair Lapid",
-      "userName": "yair@lapid.com",
-      "password": "1234",
-      "isSeller": false,
-      "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg",
-      "info": "35 years old. Spot is important part in my life, especially scuba diving."
-    }
-  ]
-}
-=======
           {
             "_id": "u106",
             "fullName": "Yair Lapid",
@@ -338,7 +209,7 @@
         "date": 1541252480,
         "capacity": 10,
         "imgUrls": [
-          "https://scubaversezone-utixkeawxrz.netdna-ssl.com/wp-content/uploads/bfi_thumb/Reem-1-640x433-mce26rbkhbe9qbav3h0ltf5ensmu2z2pujfzadx4a2.jpg","https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto/v1573005044/adventures/eps_6637.jpg", "https://israeldive.com/en/wp-content/uploads/2011/12/slide3.jpg", "https://www.israel21c.org/wp-content/uploads/2020/01/shutterstock_659183215-1168x657.jpg", "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/israel-scuba-diving-cover.jpg"
+          "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/b3/c9.jpg","https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto/v1573005044/adventures/eps_6637.jpg", "https://israeldive.com/en/wp-content/uploads/2011/12/slide3.jpg", "https://www.israel21c.org/wp-content/uploads/2020/01/shutterstock_659183215-1168x657.jpg", "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/israel-scuba-diving-cover.jpg"
         ],
         "reviews": [
           {
@@ -417,4 +288,3 @@
       }
     ]
   }
->>>>>>> 29de14fbb5828ce777fada9cbb623ec66e49bfc5
