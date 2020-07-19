@@ -1,6 +1,7 @@
 const dbService = require('../../services/db.service');
 const ObjectId = require('mongodb').ObjectId;
 
+
 module.exports = {
     query,
     getById,
@@ -9,10 +10,13 @@ module.exports = {
     add
 }
 
-async function query() {
+async function query(filterBy) {
+    const criteria = _buildCriteria(filterBy);
+    console.log(criteria)
     const collection = await dbService.getCollection('exp');
     try {
-        const exps = await collection.find().toArray();
+        const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1}).toArray();
+ 
         return exps
     } catch (err) {
         console.log('ERROR: cannot find exps')
@@ -22,7 +26,7 @@ async function query() {
 async function getById(expId) {
     const collection = await dbService.getCollection('exp')
     try {
-        const exp = await collection.findOne({"_id":ObjectId(expId)})
+        const exp = await collection.findOne({ "_id": ObjectId(expId) })
         return exp
     } catch (err) {
         console.log(`ERROR: while finding exp ${expId}`)
@@ -33,7 +37,7 @@ async function getById(expId) {
 async function remove(expId) {
     const collection = await dbService.getCollection('exp')
     try {
-        await collection.deleteOne({"_id":ObjectId(expId)})
+        await collection.deleteOne({ "_id": ObjectId(expId) })
     } catch (err) {
         console.log(`ERROR: cannot remove exp ${expId}`)
         throw err;
@@ -54,7 +58,7 @@ async function update(exp) {
     const collection = await dbService.getCollection('exp')
     exp._id = ObjectId(exp._id);
     try {
-        await collection.replaceOne({"_id":exp._id}, {$set : exp})
+        await collection.replaceOne({ "_id": exp._id }, { $set: exp })
         return exp
     } catch (err) {
         console.log(`ERROR: cannot update exp ${exp._id}`)
@@ -63,20 +67,24 @@ async function update(exp) {
 }
 
 
-// function _buildCriteria(filterBy) {
-//     console.log(filterBy);
-//     const criteria = {};
-//     if (filterBy.name_like) {
-//         criteria.name = {'$regex': `.*${filterBy.name_like.toLowerCase()}.*\i`} 
-//     }
-//     if (filterBy.type !== 'all') {
-//         criteria.type = filterBy.type;
-//     }
-//     if (filterBy.inStock !== 'all') {
-//         criteria.inStock = true;
-//     }
-//     return criteria;
-// }
+
+function _buildCriteria(filterBy) {
+    // console.log(filterBy);
+    const criteria = {};
+    // if (filterBy.name_like) {
+    // criteria.name = {'$regex': `.*${filterBy.name_like.toLowerCase()}.*\i`} 
+    // }
+    if (filterBy.tags) {
+        criteria.tags = { $all: filterBy.tags.split(',') }
+    }
+    if (filterBy.location !== 'all') {
+        criteria.location = filterBy.location;
+    }
+    if (filterBy.type !== 'all') {
+        criteria.type = filterBy.type;
+    }
+    return criteria;
+}
 
 // async function query(filterBy = {}) {
 //     console.log(filterBy)
