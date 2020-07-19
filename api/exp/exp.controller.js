@@ -2,8 +2,7 @@ const expService = require('./exp.service')
 // const logger = require('../../services/logger.service')
 
 async function getExps(req, res) { 
-    const exps = await expService.query()
-    console.log(exps)
+    const exps = await expService.query(req.query)
     res.send(exps)
 }
 
