@@ -28,6 +28,12 @@
           "fullName": "Yossi Kotz",
           "imgUrl": "https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg",
           "numOfTickets": 2
+        },
+        {
+          "_id": "userId",
+          "fullName": "guest",
+          "imgUrl": "https://icon-library.com/images/male-avatar-icon/male-avatar-icon-29.jpg",
+          "numOfTickets": 3
         }
       ],
       "location": "France",
@@ -98,7 +104,11 @@
           "_id": "userId",
           "fullName": "guest",
           "imgUrl": "https://icon-library.com/images/male-avatar-icon/male-avatar-icon-29.jpg",
+<<<<<<< HEAD
           "numOfTickets": 3
+=======
+          "numOfTickets": 4
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
         }
       ],
       "location": "Egypt",
@@ -175,6 +185,7 @@
           "_id": "userId",
           "fullName": "guest",
           "imgUrl": "https://icon-library.com/images/male-avatar-icon/male-avatar-icon-29.jpg",
+<<<<<<< HEAD
           "numOfTickets": 2
         },
         {
@@ -199,6 +210,8 @@
           "_id": "userId",
           "fullName": "guest",
           "imgUrl": "https://icon-library.com/images/male-avatar-icon/male-avatar-icon-29.jpg",
+=======
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
           "numOfTickets": 1
         }
       ],
@@ -384,7 +397,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "createdAt": 1595101892329,
+=======
+      "createdAt": 1595104858685,
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
       "by": {
         "_id": "userId",
         "fullName": "guest",
@@ -395,6 +412,7 @@
         "type": "Ski",
         "title": "Freestyle ski"
       },
+<<<<<<< HEAD
       "_id": "b21S1qa"
     },
     {
@@ -441,6 +459,12 @@
     },
     {
       "createdAt": 1595156747684,
+=======
+      "_id": "-NtwVkO"
+    },
+    {
+      "createdAt": 1595145141761,
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
       "by": {
         "_id": "userId",
         "fullName": "guest",
@@ -451,21 +475,36 @@
         "type": "Diving",
         "title": "Best Scuba Diving in Egypt"
       },
+<<<<<<< HEAD
       "_id": "s4KOT96"
     },
     {
       "createdAt": 1595159161982,
+=======
+      "_id": "MgUKzzA"
+    },
+    {
+      "createdAt": 1595145206421,
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
       "by": {
         "_id": "userId",
         "fullName": "guest",
         "imgUrl": "https://icon-library.com/images/male-avatar-icon/male-avatar-icon-29.jpg"
       },
       "exp": {
+<<<<<<< HEAD
         "_id": "5c003",
         "type": "Ski",
         "title": "Freestyle ski"
       },
       "_id": "EoQfIk8"
+=======
+        "_id": "5c001",
+        "type": "Ski",
+        "title": "Freestyle ski"
+      },
+      "_id": "tU3Ujge"
+>>>>>>> 67d1c9d898c34621696ccfa35e893a0806f147bd
     }
   ],
   "user": [
