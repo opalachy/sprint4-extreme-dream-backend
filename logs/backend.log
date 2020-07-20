@@ -86,6 +86,12 @@ Sun, 19 Jul 2020 15:42:44 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 15:42:55 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 15:43:43 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 16:47:21 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+Sun, 19 Jul 2020 17:11:58 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 17:43:10 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."}]
+Sun, 19 Jul 2020 19:42:07 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."},{"_id":"5f149840a1acd3ffbae4537c","fullName":"Orly Snowboard","userName":"orly@snowboard.com","password":"1234","isSeller":true,"imgUrl":"https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1","info":"Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France."},{"_id":"5f14986fa1acd3ffbae4537d","fullName":"Dorty Scuba","userName":"dorty@scuba.com","password":"1234","isSeller":true,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue."},{"_id":"5f149d6ba1acd3ffbae4537e","fullName":"Yossi Kotz","userName":"yossi@kotz.com","password":"1234","isSeller":false,"imgUrl":"https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg","info":"28 years old."},{"_id":"5f149d6ba1acd3ffbae4537f","fullName":"Moshe Potz","userName":"moshe@potz.com","password":"1234","isSeller":false,"imgUrl":"https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg","info":"29 years old."}]
+Mon, 20 Jul 2020 06:14:20 GMT - Info - Server is running on port: 3030
+=======
 Sun, 19 Jul 2020 18:34:53 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 18:58:53 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 18:59:20 GMT - Info - Server is running on port: 3030
@@ -199,6 +205,10 @@ Mon, 20 Jul 2020 07:25:45 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 07:26:02 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 07:26:10 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 07:26:16 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+>>>>>>> 88a50c187553d82aafa066e79899e658a42181a0
+Mon, 20 Jul 2020 08:31:44 GMT - Info - Server is running on port: 3030
+=======
 Mon, 20 Jul 2020 08:24:32 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 08:42:00 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 08:53:02 GMT - Info - Server is running on port: 3030
@@ -224,6 +234,10 @@ Mon, 20 Jul 2020 11:42:59 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 12:03:11 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 12:06:36 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 12:13:25 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
 Mon, 20 Jul 2020 13:23:28 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 13:37:48 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 13:41:02 GMT - Info - Server is running on port: 3030
+=======
+>>>>>>> ae9da3895449466d9852842112b3fe29bd23473c
+>>>>>>> d5fad36ebcacd77343b2f853b42c870f24bdabe7
