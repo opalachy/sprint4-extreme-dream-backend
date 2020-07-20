@@ -33,7 +33,7 @@ if (process.env.NODE_ENV === 'production') {
 const expRoutes = require('./api/exp/exp.routes')
 const userRoutes = require('./api/user/user.routes')
 const orderRoutes = require('./api/order/order.routes')
-// const authRoutes = require('./api/auth/auth.routes')
+const authRoutes = require('./api/auth/auth.routes')
 // const connectSockets = require('./api/socket/socket.routes')
 
 
@@ -41,6 +41,7 @@ const orderRoutes = require('./api/order/order.routes')
 app.use('/api/exp', expRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/order', orderRoutes)
+app.use('/api/auth', authRoutes)
 // // app.use('/api/review', reviewRoutes)
 // connectSockets(io)
 

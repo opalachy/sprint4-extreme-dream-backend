@@ -381,6 +381,12 @@
       "isSeller": false,
       "imgUrl": "https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg",
       "info": "35 years old. Spot is important part in my life, especially scuba diving."
+    },
+    {
+      "_id": "u101",
+      "fullName": "Orly Snowboard",
+      "info": "Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France.",
+      "imgUrl": "https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1"
     }
   ]
 }
