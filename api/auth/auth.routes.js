@@ -1,7 +1,7 @@
 const express = require('express')
 const {requireAuth}  = require('../../middlewares/requireAuth.middleware')
 const {login, signup, logout} = require('./auth.controller')
-console.log('authRoutes: ',requireAuth);
+// console.log('authRoutes: ',requireAuth);
 
 
 const router = express.Router()
