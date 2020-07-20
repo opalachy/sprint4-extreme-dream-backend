@@ -1,7 +1,6 @@
 const dbService = require('../../services/db.service');
 const ObjectId = require('mongodb').ObjectId;
 
-
 module.exports = {
     query,
     getById,
@@ -22,12 +21,13 @@ async function query(filterBy) {
         throw err;
     }
 }
+
 async function getById(expId) {
-    console.log(expId);
-    const collection = await dbService.getCollection('exp')
+    const collection = await dbService.getCollection('exp');
     try {
+        // const exp = await collection.findOne({ "currPrice": 22.0 })
         const exp = await collection.findOne({ "_id": ObjectId(expId) })
-        console.log('collection: ', exp);
+        console.log(exp)
         return exp
     } catch (err) {
         console.log(`ERROR: while finding exp ${expId}`)
@@ -36,7 +36,7 @@ async function getById(expId) {
 }
 
 async function remove(expId) {
-    const collection = await dbService.getCollection('exp')
+    const collection = await dbService.getCollection('exp');
     try {
         await collection.deleteOne({ "_id": ObjectId(expId) })
     } catch (err) {
