@@ -59,8 +59,8 @@ async function add(order) {
 //         var reviews = await collection..toArray()
 
 //         reviews = reviews.map(review => {
-//             review.byUser = {_id: review.byUser._id, username: review.byUser.username}    
-//             review.aboutUser = {_id: review.aboutUser._id, username: review.aboutUser.username}
+//             review.byUser = {_id: review.byUser._id, userName: review.byUser.userName}    
+//             review.aboutUser = {_id: review.aboutUser._id, userName: review.aboutUser.userName}
 //             delete review.byUserId;
 //             delete review.aboutUserId;
 //             return review;

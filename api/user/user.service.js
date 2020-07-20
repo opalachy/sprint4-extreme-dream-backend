@@ -8,11 +8,10 @@ module.exports = {
     getByUserName,
     remove,
     update,
-    // add
+    add
 }
 
 async function query() {
-  
     const collection = await dbService.getCollection('user')
     try {
         const users = await collection.find().toArray();
@@ -38,7 +37,6 @@ async function getById(userId) {
 }
 
 async function getByUserName(userName) {
-    console.log('userService: ', userName);
     const collection = await dbService.getCollection('user')
     try {
         const user = await collection.findOne({userName})
@@ -71,39 +69,17 @@ async function update(user) {
     }
 }
 
-// async function add(user) {
-    //     const collection = await dbService.getCollection('user')
-//     try {
-//         await collection.insertOne(user);
-//         return user;
-//     } catch (err) {
-//         console.log(`ERROR: cannot insert user`)
-//         throw err;
-//     }
-// }
+async function add(user) {
+        user.info = ""
+        user.isSeller = false;
+        user.imgUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU';
+        const collection = await dbService.getCollection('user')
+    try {
+        await collection.insertOne(user);
+        return user;
+    } catch (err) {
+        console.log(`ERROR: cannot insert user`)
+        throw err;
+    }
+}
 
-// function _buildCriteria(filterBy) {
-//     const criteria = {};
-//     if (filterBy.txt) {
-//         criteria.username = filterBy.txt
-//     }
-//     if (filterBy.minBalance) {
-    //         criteria.balance = {$gte : +filterBy.minBalance}
-    //     }
-    //     return criteria;
-    // }
-
-    
-
-    // async function query(filterBy = {}) {
-    //     const criteria = _buildCriteria(filterBy)
-    //     const collection = await dbService.getCollection('user')
-    //     try {
-    //         const users = await collection.find(criteria).toArray();
-    //         // users.forEach(user => delete user.password);
-    //         return users
-    //     } catch (err) {
-    //         console.log('ERROR: cannot find users')
-    //         throw err;
-    //     }
-    // }

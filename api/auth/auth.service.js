@@ -8,14 +8,11 @@ async function login(userName, password) {
     // logger.debug(`auth.service - login with userName: ${userName}`)
     if (!userName || !password) return Promise.reject('userName and password are required!')
     const user = await userService.getByUserName(userName)
-    const hashPass = await bcrypt.hash(user.password, saltRounds)
     if (!user) return Promise.reject('Invalid userName or password');
-    console.log('user:' , user)
-    const match = await bcrypt.compare(password, hashPass);
+    const match = await bcrypt.compare(password, user.password);
     console.log('MATCH: ', match)
     if (!match) return Promise.reject('Invalid userName or password');
     delete user.password;
-    console.log('user-user', user);
     return user;
 }
 
@@ -27,6 +24,6 @@ async function signup(email, password, userName) {
 }
 
 module.exports = {
-    // signup,
+    signup,
     login,
 }
