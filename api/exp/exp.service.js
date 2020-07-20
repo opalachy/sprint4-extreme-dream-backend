@@ -15,8 +15,7 @@ async function query(filterBy) {
     console.log(criteria)
     const collection = await dbService.getCollection('exp');
     try {
-        const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1}).toArray();
- 
+        const exps = await collection.find(criteria).sort({}).toArray();
         return exps
     } catch (err) {
         console.log('ERROR: cannot find exps')
@@ -74,6 +73,11 @@ function _buildCriteria(filterBy) {
     // if (filterBy.name_like) {
     // criteria.name = {'$regex': `.*${filterBy.name_like.toLowerCase()}.*\i`} 
     // }
+    // db.collection.find( { qty: { $gt: 4 } } )
+    if (filterBy.sellerId !== 'all') { 
+        const sellerId = 'createdBy._id';
+        criteria[sellerId] = filterBy.sellerId
+    }
     if (filterBy.tags) {
         criteria.tags = { $all: filterBy.tags.split(',') }
     }
