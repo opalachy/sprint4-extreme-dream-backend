@@ -23,9 +23,11 @@ async function query(filterBy) {
     }
 }
 async function getById(expId) {
+    console.log(expId);
     const collection = await dbService.getCollection('exp')
     try {
         const exp = await collection.findOne({ "_id": ObjectId(expId) })
+        console.log('collection: ', exp);
         return exp
     } catch (err) {
         console.log(`ERROR: while finding exp ${expId}`)
