@@ -19,3 +19,4 @@ Mon, 20 Jul 2020 19:25:57 GMT - Debug - dorty@scuba.com, dorty@scuba.com, 1234
 Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.service - signup with email: dorty@scuba.com, userName: dorty@scuba.com
 Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$fnJurdd7xIqCwW3FRaDGAuMv.jedPP4A1F2.Zj4XeELTrUVOOTvwS","userName":"dorty@scuba.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15efc5f6cd023b20f72189"}
 Mon, 20 Jul 2020 20:17:47 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 06:42:25 GMT - Info - Server is running on port: 3030
