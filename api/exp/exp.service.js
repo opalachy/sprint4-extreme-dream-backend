@@ -70,10 +70,13 @@ async function update(exp) {
 
 function _buildCriteria(filterBy) {
     const criteria = {};
-
-    if (filterBy.sellerId !== 'all') { 
-        const sellerId = 'createdBy._id';
-        criteria[sellerId] = filterBy.sellerId
+    // if (filterBy.name_like) {
+    // criteria.name = {'$regex': `.*${filterBy.name_like.toLowerCase()}.*\i`} 
+    // }
+    // db.collection.find( { qty: { $gt: 4 } } )
+    if (filterBy.userId !== 'all') { 
+        const userId = 'createdBy._id';
+        criteria[userId] = filterBy.userId
     }
     if (filterBy.tags) {
         criteria.tags = { $all: filterBy.tags.split(',') }
