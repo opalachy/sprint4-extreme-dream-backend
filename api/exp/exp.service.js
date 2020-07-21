@@ -14,7 +14,7 @@ async function query(filterBy) {
     console.log(criteria)
     const collection = await dbService.getCollection('exp');
     try {
-        const exps = await collection.find(criteria).sort({}).toArray();
+        const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1 }).toArray();
         return exps
     } catch (err) {
         console.log('ERROR: cannot find exps')
@@ -25,7 +25,6 @@ async function query(filterBy) {
 async function getById(expId) {
     const collection = await dbService.getCollection('exp');
     try {
-        // const exp = await collection.findOne({ "currPrice": 22.0 })
         const exp = await collection.findOne({ "_id": ObjectId(expId) })
         console.log(exp)
         return exp
@@ -70,12 +69,8 @@ async function update(exp) {
 
 
 function _buildCriteria(filterBy) {
-    // console.log(filterBy);
     const criteria = {};
-    // if (filterBy.name_like) {
-    // criteria.name = {'$regex': `.*${filterBy.name_like.toLowerCase()}.*\i`} 
-    // }
-    // db.collection.find( { qty: { $gt: 4 } } )
+
     if (filterBy.sellerId !== 'all') { 
         const sellerId = 'createdBy._id';
         criteria[sellerId] = filterBy.sellerId
@@ -92,18 +87,3 @@ function _buildCriteria(filterBy) {
     return criteria;
 }
 
-// async function query(filterBy = {}) {
-//     console.log(filterBy)
-//     let sortBy = {};
-//     if(filterBy._sortBy === 'createdAt') sortBy[filterBy._sortBy] = -1
-//     else sortBy[filterBy._sortBy] = 1;
-//     const criteria = _buildCriteria(filterBy);
-//     const collection = await dbService.getCollection('exp');
-//     try {
-//         const exps = await collection.find(criteria).sort(sortBy).toArray();
-//         return exps
-//     } catch (err) {
-//         console.log('ERROR: cannot find users')
-//         throw err;
-//     }
-// }
