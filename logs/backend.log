@@ -241,6 +241,7 @@ Mon, 20 Jul 2020 13:37:48 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 13:41:02 GMT - Info - Server is running on port: 3030
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ae9da3895449466d9852842112b3fe29bd23473c
 <<<<<<< HEAD
 Mon, 20 Jul 2020 13:44:02 GMT - Info - Server is running on port: 3030
@@ -264,6 +265,8 @@ Mon, 20 Jul 2020 15:03:09 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 15:51:56 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 15:53:10 GMT - Info - Server is running on port: 3030
 =======
+=======
+>>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
 
 
 Mon, 20 Jul 2020 13:54:54 GMT - Info - Server is running on port: 3030
@@ -413,6 +416,7 @@ Mon, 20 Jul 2020 17:32:40 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$PZpC/7tgiBSlTMyuVoovSOt3MdR.MaV/92t0jFHrBqqUctO4MRPaa","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15d5b74fc08347885541b8"}
+<<<<<<< HEAD
 >>>>>>> 1cc0ea6efb9b83ff4c8ff3454bec7f8625529246
 >>>>>>> be107ac1bc220e680839e25c0f7aab504fc16baa
 Mon, 20 Jul 2020 18:56:02 GMT - Info - Server is running on port: 3030
@@ -423,6 +427,10 @@ Mon, 20 Jul 2020 19:02:44 GMT - Debug - auth.route - new account created: {"emai
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - rani@rr.com, rani, rani
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$XF.aIw8409663xERb8lL/OJB4duLvJuJuHyshFETmAawHOzHo1eRC","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15f42675f8993e7ca79243"}
+=======
+Mon, 20 Jul 2020 18:32:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 20:39:19 GMT - Info - Server is running on port: 3030
+>>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
 =======
 Mon, 20 Jul 2020 18:48:01 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 18:52:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
@@ -446,3 +454,7 @@ Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.service - signup with email: dorty@
 Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$fnJurdd7xIqCwW3FRaDGAuMv.jedPP4A1F2.Zj4XeELTrUVOOTvwS","userName":"dorty@scuba.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15efc5f6cd023b20f72189"}
 Mon, 20 Jul 2020 20:17:47 GMT - Info - Server is running on port: 3030
 >>>>>>> 69b0b694cd57aab922e242650f9a5398972405f8
+<<<<<<< HEAD
+=======
+Tue, 21 Jul 2020 06:33:37 GMT - Info - Server is running on port: 3030
+>>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
