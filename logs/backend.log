@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sun, 19 Jul 2020 10:04:11 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 10:08:00 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 10:10:23 GMT - Info - Server is running on port: 3030
@@ -422,3 +423,26 @@ Mon, 20 Jul 2020 19:02:44 GMT - Debug - auth.route - new account created: {"emai
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - rani@rr.com, rani, rani
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
 Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$XF.aIw8409663xERb8lL/OJB4duLvJuJuHyshFETmAawHOzHo1eRC","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15f42675f8993e7ca79243"}
+=======
+Mon, 20 Jul 2020 18:48:01 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$fxJkntoePvb9x5dirNat3eNSM9n/N8vjYQKnu/zt71QimD/2rc97O","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15e7fff6cd023b20f72184"}
+Mon, 20 Jul 2020 18:52:47 GMT - Error - [SIGNUP] Invalid userName or password
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - rani@rahav.com, rani@rahav.com, 1234
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - auth.service - signup with email: rani@rahav.com, userName: rani@rahav.com
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - auth.route - new account created: {"email":"rani@rahav.com","password":"$2b$10$Ktp/FKZ0lh2iA6nbTXgzF./9TD9URCFjgnKW5Ockce5ZORLXQu5ca","userName":"rani@rahav.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ec19f6cd023b20f72185"}
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - yair@lapid.com, yair@lapid.com, 1234
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - auth.service - signup with email: yair@lapid.com, userName: yair@lapid.com
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - auth.route - new account created: {"email":"yair@lapid.com","password":"$2b$10$utLn8mPgUKJ5IMTwBhSC9u/OPMA4CPQ3ycZkKaoudimkCAE/TSg8O","userName":"yair@lapid.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ee2cf6cd023b20f72186"}
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - moshe@potz.com, moshe@potz.com, 1234
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - auth.service - signup with email: moshe@potz.com, userName: moshe@potz.com
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - auth.route - new account created: {"email":"moshe@potz.com","password":"$2b$10$CkC9TFjYVVP.FR7mLc.D7eo6Ng6IpHo/jaoQ2wmZRjFMg/MRlLMiO","userName":"moshe@potz.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15eeddf6cd023b20f72187"}
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - yossi@kotz.com, yossi@kotz.com, 1234
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - auth.service - signup with email: yossi@kotz.com, userName: yossi@kotz.com
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - auth.route - new account created: {"email":"yossi@kotz.com","password":"$2b$10$BlzeGRA1DFehvSqmepqBn.yTx3mNf0R9QZVYeKhN6qvNBvU8R1r6q","userName":"yossi@kotz.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ef57f6cd023b20f72188"}
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - dorty@scuba.com, dorty@scuba.com, 1234
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.service - signup with email: dorty@scuba.com, userName: dorty@scuba.com
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$fnJurdd7xIqCwW3FRaDGAuMv.jedPP4A1F2.Zj4XeELTrUVOOTvwS","userName":"dorty@scuba.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15efc5f6cd023b20f72189"}
+Mon, 20 Jul 2020 20:17:47 GMT - Info - Server is running on port: 3030
+>>>>>>> 69b0b694cd57aab922e242650f9a5398972405f8
