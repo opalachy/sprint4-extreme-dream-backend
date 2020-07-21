@@ -388,3 +388,5 @@ Mon, 20 Jul 2020 17:32:40 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$PZpC/7tgiBSlTMyuVoovSOt3MdR.MaV/92t0jFHrBqqUctO4MRPaa","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15d5b74fc08347885541b8"}
+Mon, 20 Jul 2020 18:32:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 20:39:19 GMT - Info - Server is running on port: 3030
