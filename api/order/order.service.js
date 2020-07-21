@@ -8,11 +8,15 @@ module.exports = {
     getById
 }
 
-async function query() {
+async function query(filter) {
+    const criteria = {
+        'by._id': filter.userId
+    }
     const collection = await dbService.getCollection('order')
     try {
         // const reviews = await collection.find(criteria).toArray();
-        var orders = await collection.find().toArray()        
+        var orders = await collection.find(criteria).toArray()   
+        console.log(orders)     
         return orders
     } catch (err) {
         console.log('ERROR: cannot find orders')

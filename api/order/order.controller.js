@@ -5,7 +5,7 @@ const orderService = require('./order.service')
 
 async function getOrders(req, res) {
     try {
-        const orders = await orderService.query()
+        const orders = await orderService.query(req.query)
         res.send(orders)
     } catch (err) {
         logger.error('Cannot get orders', err);
