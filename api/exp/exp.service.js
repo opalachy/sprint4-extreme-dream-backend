@@ -11,7 +11,6 @@ module.exports = {
 
 async function query(filterBy) {
     const criteria = _buildCriteria(filterBy);
-    console.log(criteria)
     const collection = await dbService.getCollection('exp');
     try {
         const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1 }).toArray();
@@ -26,7 +25,6 @@ async function getById(expId) {
     const collection = await dbService.getCollection('exp');
     try {
         const exp = await collection.findOne({ "_id": ObjectId(expId) })
-        console.log(exp)
         return exp
     } catch (err) {
         console.log(`ERROR: while finding exp ${expId}`)
