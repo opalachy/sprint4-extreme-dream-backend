@@ -497,6 +497,7 @@ Tue, 21 Jul 2020 15:17:10 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 15:37:03 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 21:43:03 GMT - Info - Server is running on port: 3030
 >>>>>>> 7d6ec4fa0b5de4408767c0d01b778b81c897aec8
+<<<<<<< HEAD
 Wed, 22 Jul 2020 06:32:39 GMT - Info - Server is running on port: 3030
 Wed, 22 Jul 2020 06:34:44 GMT - Info - Server is running on port: 3030
 Wed, 22 Jul 2020 06:34:57 GMT - Info - Server is running on port: 3030
@@ -521,5 +522,3 @@ Wed, 22 Jul 2020 13:46:13 GMT - Info - Server is running on port: 3030
 Wed, 22 Jul 2020 13:47:28 GMT - Info - Server is running on port: 3030
 Wed, 22 Jul 2020 13:51:24 GMT - Info - Server is running on port: 3030
 Wed, 22 Jul 2020 14:28:08 GMT - Debug - ddddd, dortyddd, 1234dddd
-Wed, 22 Jul 2020 14:28:08 GMT - Debug - auth.service - signup with email: ddddd, userName: dortyddd
-Wed, 22 Jul 2020 14:28:09 GMT - Debug - auth.route - new account created: {"email":"ddddd","password":"$2b$10$kDj/E9q5eGghEAJDAFDlt.okqQYWuoYTvjHOjRZUXN9Z7UzMTZDUO","userName":"dortyddd","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f184cf91a46a418ec544467"}
