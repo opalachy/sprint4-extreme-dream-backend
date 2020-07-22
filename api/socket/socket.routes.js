@@ -4,18 +4,21 @@ module.exports = connectSockets
 function connectSockets(io) {
     io.on('connection', socket => {
         console.log('show must go on')
-        socket.on('chat newMsg', msg=>{
+        socket.on('show to everyone booking', msg=> {
             console.log(msg)
-            // io.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            io.to(socket.myTopic).emit('chat addMsg', msg)
+            io.emit('booking', 'booking')
         })
-        socket.on('chat topic', topic=>{
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-            }
-            socket.join(topic)
-            socket.myTopic = topic;
-        })
+
+        // socket.on('update the seller' , SellerId =>{
+        //     io.emit('bookingToSeller', SellerId)
+        // })
+
+        // socket.on('chat topic', topic=>{
+        //     if (socket.myTopic) {
+        //         socket.leave(socket.myTopic)
+        //     }
+        //     socket.join(topic)
+        //     socket.myTopic = topic;
+        // })
     })
 }

@@ -7,7 +7,7 @@ const session = require('express-session')
 
 const app = express()
 const http = require('http').createServer(app);
-// const io = require('socket.io')(http);
+const io = require('socket.io')(http);
 
 // Express App Config
 app.use(cookieParser())
@@ -35,7 +35,7 @@ const userRoutes = require('./api/user/user.routes')
 const orderRoutes = require('./api/order/order.routes')
 const authRoutes = require('./api/auth/auth.routes')
 const reviewRoutes = require('./api/review/review.routes')
-// const connectSockets = require('./api/socket/socket.routes')
+const connectSockets = require('./api/socket/socket.routes')
 
 
 // routes
@@ -44,7 +44,7 @@ app.use('/api/user', userRoutes)
 app.use('/api/order', orderRoutes)
 app.use('/api/auth', authRoutes)
 app.use('/api/review', reviewRoutes)
-// connectSockets(io)
+connectSockets(io)
 
 
 
