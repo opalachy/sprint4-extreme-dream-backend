@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sun, 19 Jul 2020 10:04:11 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 10:08:00 GMT - Info - Server is running on port: 3030
 Sun, 19 Jul 2020 10:10:23 GMT - Info - Server is running on port: 3030
@@ -240,33 +241,6 @@ Mon, 20 Jul 2020 13:23:28 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 13:37:48 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 13:41:02 GMT - Info - Server is running on port: 3030
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ae9da3895449466d9852842112b3fe29bd23473c
-<<<<<<< HEAD
-Mon, 20 Jul 2020 13:44:02 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:03:14 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:27:55 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:30:07 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:58:22 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."},{"_id":"5f149840a1acd3ffbae4537c","fullName":"Orly Snowboard","userName":"orly@snowboard.com","password":"1234","isSeller":true,"imgUrl":"https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1","info":"Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France."},{"_id":"5f14986fa1acd3ffbae4537d","fullName":"Dorty Scuba","userName":"dorty@scuba.com","password":"1234","isSeller":true,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue."},{"_id":"5f149d6ba1acd3ffbae4537e","fullName":"Yossi Kotz","userName":"yossi@kotz.com","password":"1234","isSeller":false,"imgUrl":"https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg","info":"28 years old."},{"_id":"5f149d6ba1acd3ffbae4537f","fullName":"Moshe Potz","userName":"moshe@potz.com","password":"1234","isSeller":false,"imgUrl":"https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg","info":"29 years old."}]
-=======
->>>>>>> d5fad36ebcacd77343b2f853b42c870f24bdabe7
-<<<<<<< HEAD
->>>>>>> e6f290fea3fd496aa55a1ffccad17a02d2df0180
-=======
-Mon, 20 Jul 2020 13:55:57 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:10:47 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:12:07 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:15:07 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:16:45 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 14:28:17 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."},{"_id":"5f149840a1acd3ffbae4537c","fullName":"Orly Snowboard","userName":"orly@snowboard.com","password":"1234","isSeller":true,"imgUrl":"https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1","info":"Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France."},{"_id":"5f14986fa1acd3ffbae4537d","fullName":"Dorty Scuba","userName":"dorty@scuba.com","password":"1234","isSeller":true,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue."},{"_id":"5f149d6ba1acd3ffbae4537e","fullName":"Yossi Kotz","userName":"yossi@kotz.com","password":"1234","isSeller":false,"imgUrl":"https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg","info":"28 years old."},{"_id":"5f149d6ba1acd3ffbae4537f","fullName":"Moshe Potz","userName":"moshe@potz.com","password":"1234","isSeller":false,"imgUrl":"https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg","info":"29 years old."}]
-Mon, 20 Jul 2020 14:30:15 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."},{"_id":"5f149840a1acd3ffbae4537c","fullName":"Orly Snowboard","userName":"orly@snowboard.com","password":"1234","isSeller":true,"imgUrl":"https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1","info":"Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France."},{"_id":"5f14986fa1acd3ffbae4537d","fullName":"Dorty Scuba","userName":"dorty@scuba.com","password":"1234","isSeller":true,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue."},{"_id":"5f149d6ba1acd3ffbae4537e","fullName":"Yossi Kotz","userName":"yossi@kotz.com","password":"1234","isSeller":false,"imgUrl":"https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg","info":"28 years old."},{"_id":"5f149d6ba1acd3ffbae4537f","fullName":"Moshe Potz","userName":"moshe@potz.com","password":"1234","isSeller":false,"imgUrl":"https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg","info":"29 years old."}]
-Mon, 20 Jul 2020 15:03:09 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 15:51:56 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 15:53:10 GMT - Info - Server is running on port: 3030
-=======
-=======
->>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
 
 
 Mon, 20 Jul 2020 13:54:54 GMT - Info - Server is running on port: 3030
@@ -416,21 +390,8 @@ Mon, 20 Jul 2020 17:32:40 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
 Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$PZpC/7tgiBSlTMyuVoovSOt3MdR.MaV/92t0jFHrBqqUctO4MRPaa","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15d5b74fc08347885541b8"}
-<<<<<<< HEAD
->>>>>>> 1cc0ea6efb9b83ff4c8ff3454bec7f8625529246
->>>>>>> be107ac1bc220e680839e25c0f7aab504fc16baa
-Mon, 20 Jul 2020 18:56:02 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 19:02:30 GMT - Info - Server is running on port: 3030
-Mon, 20 Jul 2020 19:02:44 GMT - Debug - dorty@scuba.com, Dorty, 1234
-Mon, 20 Jul 2020 19:02:44 GMT - Debug - auth.service - signup with email: dorty@scuba.com, userName: Dorty
-Mon, 20 Jul 2020 19:02:44 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$IzT875/r.eTFtVJDcqtsJeUZYVpPAH5D0RD5Lg4ZpAfJvQT6k8qL2","userName":"Dorty","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ea5475f8993e7ca79242"}
-Mon, 20 Jul 2020 19:44:38 GMT - Debug - rani@rr.com, rani, rani
-Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
-Mon, 20 Jul 2020 19:44:38 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$XF.aIw8409663xERb8lL/OJB4duLvJuJuHyshFETmAawHOzHo1eRC","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15f42675f8993e7ca79243"}
-=======
 Mon, 20 Jul 2020 18:32:10 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 20:39:19 GMT - Info - Server is running on port: 3030
->>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
 =======
 Mon, 20 Jul 2020 18:48:01 GMT - Info - Server is running on port: 3030
 Mon, 20 Jul 2020 18:52:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
@@ -454,13 +415,7 @@ Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.service - signup with email: dorty@
 Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$fnJurdd7xIqCwW3FRaDGAuMv.jedPP4A1F2.Zj4XeELTrUVOOTvwS","userName":"dorty@scuba.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15efc5f6cd023b20f72189"}
 Mon, 20 Jul 2020 20:17:47 GMT - Info - Server is running on port: 3030
 >>>>>>> 69b0b694cd57aab922e242650f9a5398972405f8
-<<<<<<< HEAD
-=======
 Tue, 21 Jul 2020 06:33:37 GMT - Info - Server is running on port: 3030
-<<<<<<< HEAD
->>>>>>> ff38f3593a80f3652a426517ba5d3f53fc52aba5
-Tue, 21 Jul 2020 06:42:28 GMT - Info - Server is running on port: 3030
-=======
 Tue, 21 Jul 2020 06:37:03 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:03:03 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:03:10 GMT - Info - Server is running on port: 3030
@@ -472,12 +427,6 @@ Tue, 21 Jul 2020 07:08:19 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:08:27 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:10:55 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:12:35 GMT - Info - Server is running on port: 3030
-<<<<<<< HEAD
->>>>>>> bca5b7bfe9c54cc969c9990539b241fbd82737bb
-Tue, 21 Jul 2020 07:24:45 GMT - Info - Server is running on port: 3030
-Tue, 21 Jul 2020 08:23:02 GMT - Info - Server is running on port: 3030
-Tue, 21 Jul 2020 11:13:42 GMT - Info - Server is running on port: 3030
-=======
 Tue, 21 Jul 2020 07:19:47 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 07:21:41 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 08:53:57 GMT - Info - Server is running on port: 3030
@@ -489,6 +438,7 @@ Tue, 21 Jul 2020 08:56:23 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 09:22:02 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 09:22:16 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 09:22:44 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
 >>>>>>> f0611dbf1ddb51542be17f4ea47c275ad5f2960f
 Tue, 21 Jul 2020 15:12:14 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 15:15:30 GMT - Info - Server is running on port: 3030
@@ -518,3 +468,15 @@ Tue, 21 Jul 2020 21:37:38 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 21:37:47 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 21:37:55 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 21:40:34 GMT - Info - Server is running on port: 3030
+=======
+Tue, 21 Jul 2020 09:38:25 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - ranii@rr.com, rani, 1234
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.service - signup with email: ranii@rr.com, userName: rani
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.route - new account created: {"email":"ranii@rr.com","password":"$2b$10$iR0fxNivEItNS.TKf6nF3uZAuWHWAGJemVespvcBebjRPBBciw/b2","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f16c99c19ad434664a72e64"}
+=======
+>>>>>>> c208cf4e427835ee9a3bd291c9a5122d07561ab9
+Tue, 21 Jul 2020 15:12:53 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:17:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:37:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:43:03 GMT - Info - Server is running on port: 3030
+>>>>>>> 7d6ec4fa0b5de4408767c0d01b778b81c897aec8

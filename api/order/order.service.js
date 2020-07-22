@@ -16,6 +16,7 @@ async function query(filter) {
     try {
         // const reviews = await collection.find(criteria).toArray();
         var orders = await collection.find(criteria).toArray()   
+            
         return orders
     } catch (err) {
         console.log('ERROR: cannot find orders')
