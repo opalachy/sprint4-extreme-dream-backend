@@ -34,6 +34,7 @@ const expRoutes = require('./api/exp/exp.routes')
 const userRoutes = require('./api/user/user.routes')
 const orderRoutes = require('./api/order/order.routes')
 const authRoutes = require('./api/auth/auth.routes')
+const reviewRoutes = require('./api/review/review.routes')
 // const connectSockets = require('./api/socket/socket.routes')
 
 
@@ -42,7 +43,7 @@ app.use('/api/exp', expRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/order', orderRoutes)
 app.use('/api/auth', authRoutes)
-// // app.use('/api/review', reviewRoutes)
+app.use('/api/review', reviewRoutes)
 // connectSockets(io)
 
 
