@@ -16,7 +16,6 @@ async function query(filter) {
     try {
         // const reviews = await collection.find(criteria).toArray();
         var orders = await collection.find(criteria).toArray()   
-        console.log(orders)     
         return orders
     } catch (err) {
         console.log('ERROR: cannot find orders')
@@ -35,7 +34,6 @@ async function getById(orderId) {
 }   
 
 async function remove(orderId) {
-    console.log(orderId)
     const collection = await dbService.getCollection('order')    
     try {
         await collection.deleteOne({"_id":ObjectId(orderId)})    

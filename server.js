@@ -23,7 +23,7 @@ if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve(__dirname, 'public')));
 } else {
     const corsOptions = {
-        origin: ['http://127.0.0.1:8080', 'http://localhost:8081', 'http://127.0.0.1:3000', 'http://localhost:3000'],
+        origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     };
     app.use(cors(corsOptions));
@@ -34,6 +34,7 @@ const expRoutes = require('./api/exp/exp.routes')
 const userRoutes = require('./api/user/user.routes')
 const orderRoutes = require('./api/order/order.routes')
 const authRoutes = require('./api/auth/auth.routes')
+const reviewRoutes = require('./api/review/review.routes')
 // const connectSockets = require('./api/socket/socket.routes')
 
 
@@ -42,7 +43,7 @@ app.use('/api/exp', expRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/order', orderRoutes)
 app.use('/api/auth', authRoutes)
-// // app.use('/api/review', reviewRoutes)
+app.use('/api/review', reviewRoutes)
 // connectSockets(io)
 
 
