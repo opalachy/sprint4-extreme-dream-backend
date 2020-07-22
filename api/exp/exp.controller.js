@@ -7,9 +7,6 @@ async function getExps(req, res) {
 }
 
 async function getExp(req, res) {
-    // console.log(req.session)
-    // console.log(req.params.id)
-    console.log(req.params.id)
     const exp = await expService.getById(req.params.id)
     res.send(exp)
 }
