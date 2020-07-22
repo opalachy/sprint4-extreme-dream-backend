@@ -445,6 +445,7 @@ Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.service - signup with email: ranii@
 Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.route - new account created: {"email":"ranii@rr.com","password":"$2b$10$iR0fxNivEItNS.TKf6nF3uZAuWHWAGJemVespvcBebjRPBBciw/b2","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f16c99c19ad434664a72e64"}
 =======
 >>>>>>> c208cf4e427835ee9a3bd291c9a5122d07561ab9
+<<<<<<< HEAD
 >>>>>>> 297d45a98394ed8ec07e4afe35b8ecd4d0cafdf1
 Tue, 21 Jul 2020 15:14:54 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 15:16:22 GMT - Info - Server is running on port: 3030
@@ -459,3 +460,9 @@ Tue, 21 Jul 2020 15:56:10 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 16:00:40 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 19:08:00 GMT - Info - Server is running on port: 3030
 Tue, 21 Jul 2020 19:08:07 GMT - Info - Server is running on port: 3030
+=======
+Tue, 21 Jul 2020 15:12:53 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:17:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:37:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:43:03 GMT - Info - Server is running on port: 3030
+>>>>>>> 7d6ec4fa0b5de4408767c0d01b778b81c897aec8

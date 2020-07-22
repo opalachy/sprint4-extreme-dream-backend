@@ -15,7 +15,8 @@ async function query(filter) {
     const collection = await dbService.getCollection('order')
     try {
         // const reviews = await collection.find(criteria).toArray();
-        var orders = await collection.find(criteria).toArray()        
+        var orders = await collection.find(criteria).toArray()   
+            
         return orders
     } catch (err) {
         console.log('ERROR: cannot find orders')
