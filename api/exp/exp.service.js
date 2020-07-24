@@ -80,10 +80,10 @@ function _buildCriteria(filterBy) {
     if (filterBy.tags) {
         criteria.tags = { $all: filterBy.tags.split(',') }
     }
-    if (filterBy.location !== 'all-location') {
+    if (filterBy.location !== 'All') {
         criteria.location = filterBy.location;
     }
-    if (filterBy.type !== 'all-type') {
+    if (filterBy.type !== 'All') {
         criteria.type = filterBy.type;
     }
     return criteria;
