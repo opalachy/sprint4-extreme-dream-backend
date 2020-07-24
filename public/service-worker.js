@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5ffa575f9884de4b987677fc638870af.js"
+  "/precache-manifest.a9de58b7c89380f80d9d7b0b06331002.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ExDream"});
