@@ -577,6 +577,7 @@ Fri, 24 Jul 2020 20:28:22 GMT - Info - Server is running on port: 3000
 =======
 >>>>>>> 8e9da6584ab43f1258874cbe19a8748f2e24f795
 >>>>>>> eba72b10e2463e9a8c839b9ee665da5488498f61
+<<<<<<< HEAD
 Fri, 24 Jul 2020 21:19:15 GMT - Info - Server is running on port: 3000
 Fri, 24 Jul 2020 21:21:55 GMT - Info - Server is running on port: 3030
 Fri, 24 Jul 2020 21:27:31 GMT - Info - Server is running on port: 3030
@@ -592,3 +593,8 @@ Sat, 25 Jul 2020 08:16:48 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 08:18:15 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 08:18:26 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 08:26:18 GMT - Info - Server is running on port: 3030
+=======
+Sat, 25 Jul 2020 10:26:37 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 10:52:51 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 10:56:01 GMT - Info - Server is running on port: 3030
+>>>>>>> dcb63fb136b488b7958a0a32068c47901e8085eb
