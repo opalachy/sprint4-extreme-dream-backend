@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a9de58b7c89380f80d9d7b0b06331002.js"
+  "/precache-manifest.bb35e963a9001326bd8969179d2f6ba0.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "ExDream"});
+workbox.core.setCacheNameDetails({prefix: "frontend"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

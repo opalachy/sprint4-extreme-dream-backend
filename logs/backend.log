@@ -577,11 +577,60 @@ Fri, 24 Jul 2020 20:28:22 GMT - Info - Server is running on port: 3000
 =======
 >>>>>>> 8e9da6584ab43f1258874cbe19a8748f2e24f795
 >>>>>>> eba72b10e2463e9a8c839b9ee665da5488498f61
+<<<<<<< HEAD
+Fri, 24 Jul 2020 21:19:15 GMT - Info - Server is running on port: 3000
+Fri, 24 Jul 2020 21:21:55 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 21:27:31 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 21:34:56 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:12:58 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:14:13 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:21:32 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:25:55 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:29:52 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 07:33:02 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:56:33 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:16:48 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:18:15 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:18:26 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:26:18 GMT - Info - Server is running on port: 3030
+=======
 Sat, 25 Jul 2020 10:26:37 GMT - Info - Server is running on port: 3000
 Sat, 25 Jul 2020 10:52:51 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 10:56:01 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
 Sat, 25 Jul 2020 11:03:38 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 11:08:49 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 11:49:26 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 18:29:17 GMT - Info - Server is running on port: 3030
 Sun, 26 Jul 2020 05:45:54 GMT - Info - Server is running on port: 3030
+=======
+>>>>>>> dcb63fb136b488b7958a0a32068c47901e8085eb
+Sat, 25 Jul 2020 11:23:06 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 11:25:18 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 20:48:43 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 20:49:59 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 20:50:29 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 21:15:41 GMT - Debug - yael@www.com, yael, 1234
+Sat, 25 Jul 2020 21:15:41 GMT - Debug - auth.service - signup with email: yael@www.com, userName: yael
+Sat, 25 Jul 2020 21:15:42 GMT - Debug - auth.route - new account created: {"email":"yael@www.com","password":"$2b$10$FMx7SPOLal4ZAmCnPQVW1eDfvlg4l00sCmH.t/7jLm6JIRJglTzOi","userName":"yael","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca0fea213651fdc253aee"}
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - dany@sssss.com, dany, 1234
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - auth.service - signup with email: dany@sssss.com, userName: dany
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - auth.route - new account created: {"email":"dany@sssss.com","password":"$2b$10$IxN94cfgnru4LKT7Yz9xNekxg2RoZ6bR6kGXMkyDrX.tbMO.uHTim","userName":"dany","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca245a213651fdc253af4"}
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - danny@adf.com, danny, 1234
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - auth.service - signup with email: danny@adf.com, userName: danny
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - auth.route - new account created: {"email":"danny@adf.com","password":"$2b$10$yHJrZsCMchiOwjipMRRHQuRFWDHiGd0s5CU9uEb7aBDDM7TFFQS4a","userName":"danny","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca276a213651fdc253af6"}
+Sat, 25 Jul 2020 21:46:43 GMT - Debug - demy@srf.com, demy, 1234
+Sat, 25 Jul 2020 21:46:43 GMT - Debug - auth.service - signup with email: demy@srf.com, userName: demy
+Sat, 25 Jul 2020 21:46:44 GMT - Debug - auth.route - new account created: {"email":"demy@srf.com","password":"$2b$10$xxNl6DPzm7hJM84xX0xMAe7v0t.HstuEO.ylj6ITGyY3dp8sW/Z4S","userName":"demy","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca844a213651fdc253afe"}
+Sat, 25 Jul 2020 22:46:06 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 05:45:31 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 06:48:44 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 06:57:19 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 07:00:33 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:05:54 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:12:23 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:16:27 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:17:46 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:43:05 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:43:15 GMT - Info - Server is running on port: 3030
+>>>>>>> ab7fd828343dd72dd11b658911ad81b72c936085
