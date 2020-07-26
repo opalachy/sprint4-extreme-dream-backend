@@ -1,7 +1,6 @@
 const logger = require('../../services/logger.service')
 const orderService = require('./order.service')
 
-// TODO: needs error handling! try, catch
 
 async function getOrders(req, res) {
     try {
@@ -37,7 +36,6 @@ async function addOrder(req, res) {
         const order = await orderService.add(req.body)
         res.send(order)
     } catch (err) {
-        // logger.error('Cannot push order', err);
         res.status(500).send({ error: 'cannot push order' })
     }
 }
