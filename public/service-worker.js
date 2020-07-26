@@ -17,7 +17,7 @@ importScripts(
   "/precache-manifest.8ca4507bde8326796f47762516914265.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "ExDream"});
+workbox.core.setCacheNameDetails({prefix: "frontend"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

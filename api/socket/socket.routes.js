@@ -3,11 +3,9 @@ module.exports = connectSockets
 
 function connectSockets(io) {
     io.on('connection', socket => {
-        console.log('show must go on')
-        socket.on('booking', sellerId => {
-            console.log(sellerId)
+        socket.on('booking', ({sellerId, buyer})=> {
             io.emit('update exp', 'booking')
-            io.emit(sellerId , 'go to profile someone booking')
+            io.emit(sellerId , buyer)
 
         })
     })
