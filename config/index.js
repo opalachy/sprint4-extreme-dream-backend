@@ -1,6 +1,6 @@
 var config;
 
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV !== 'development') {
   // we are in production - return the prod set of keys
   config = require('./prod')
 } else {
