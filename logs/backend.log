@@ -651,3 +651,10 @@ Sun, 26 Jul 2020 11:23:15 GMT - Info - Server is running on port: 3030
 Sun, 26 Jul 2020 12:32:49 GMT - Info - Server is running on port: 3000
 Sun, 26 Jul 2020 14:07:44 GMT - Info - Server is running on port: 3000
 Sun, 26 Jul 2020 14:27:36 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 14:38:18 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - dandan@gmail.com, Dandan, 1234
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - auth.service - signup with email: dandan@gmail.com, userName: Dandan
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - auth.route - new account created: {"email":"dandan@gmail.com","password":"$2b$10$G7tuKtw7CsSJbi/FzfybN.GEcIlQ/572lcxc0MHiZDpJO8Zu.AduS","userName":"Dandan","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1dabe667e0a03c7020b39a"}
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - eran@gmail.com, Eran, 1234
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - auth.service - signup with email: eran@gmail.com, userName: Eran
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - auth.route - new account created: {"email":"eran@gmail.com","password":"$2b$10$SqTXeJhQ4/emUcUrBpVnOuxcJK1TcXQ0WKV.sT40nDKnN0KadvALW","userName":"Eran","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1dac5367e0a03c7020b39b"}
