@@ -598,6 +598,16 @@ Sat, 25 Jul 2020 10:26:37 GMT - Info - Server is running on port: 3000
 Sat, 25 Jul 2020 10:52:51 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 10:56:01 GMT - Info - Server is running on port: 3030
 <<<<<<< HEAD
+Sat, 25 Jul 2020 12:16:57 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 12:20:24 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 12:42:54 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 23:43:40 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 06:20:05 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 06:35:32 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 10:49:57 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 10:52:22 GMT - Info - Server is running on port: 3030
+=======
+<<<<<<< HEAD
 Sat, 25 Jul 2020 11:03:38 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 11:08:49 GMT - Info - Server is running on port: 3030
 Sat, 25 Jul 2020 11:49:26 GMT - Info - Server is running on port: 3030
@@ -634,6 +644,7 @@ Sun, 26 Jul 2020 10:17:46 GMT - Info - Server is running on port: 3030
 Sun, 26 Jul 2020 10:43:05 GMT - Info - Server is running on port: 3030
 Sun, 26 Jul 2020 10:43:15 GMT - Info - Server is running on port: 3030
 >>>>>>> ab7fd828343dd72dd11b658911ad81b72c936085
+<<<<<<< HEAD
 Sun, 26 Jul 2020 11:24:15 GMT - Info - Server is running on port: 3030
 Sun, 26 Jul 2020 11:35:13 GMT - Info - Server is running on port: 3030
 Mon, 27 Jul 2020 06:17:51 GMT - Info - Server is running on port: 3030
@@ -655,3 +666,19 @@ Mon, 27 Jul 2020 22:39:47 GMT - Info - Server is running on port: 3030
 Mon, 27 Jul 2020 22:40:32 GMT - Info - Server is running on port: 3030
 Mon, 27 Jul 2020 22:52:44 GMT - Info - Server is running on port: 3030
 Tue, 28 Jul 2020 04:48:24 GMT - Info - Server is running on port: 3030
+=======
+>>>>>>> 15d2eeaef47bd344e4a1035df8ba8f09af5eda31
+Sun, 26 Jul 2020 11:01:42 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 11:17:48 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 11:23:15 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 12:32:49 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 14:07:44 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 14:27:36 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 14:38:18 GMT - Info - Server is running on port: 3000
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - dandan@gmail.com, Dandan, 1234
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - auth.service - signup with email: dandan@gmail.com, userName: Dandan
+Sun, 26 Jul 2020 16:14:30 GMT - Debug - auth.route - new account created: {"email":"dandan@gmail.com","password":"$2b$10$G7tuKtw7CsSJbi/FzfybN.GEcIlQ/572lcxc0MHiZDpJO8Zu.AduS","userName":"Dandan","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1dabe667e0a03c7020b39a"}
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - eran@gmail.com, Eran, 1234
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - auth.service - signup with email: eran@gmail.com, userName: Eran
+Sun, 26 Jul 2020 16:16:19 GMT - Debug - auth.route - new account created: {"email":"eran@gmail.com","password":"$2b$10$SqTXeJhQ4/emUcUrBpVnOuxcJK1TcXQ0WKV.sT40nDKnN0KadvALW","userName":"Eran","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1dac5367e0a03c7020b39b"}
+>>>>>>> 3db8a9150adef92935cf4cb9eb2f9c37c751077e
